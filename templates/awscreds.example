@@ -1,0 +1,4 @@
+[
+	{"Name": "AWS_ACCESS_KEY_ID", "Value":"XXXXXX"},
+	{"Name": "AWS_SECRET_ACCESS_KEY", "Value": "YYYYYY", "Sensitive": "true"}
+]
